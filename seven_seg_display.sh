@@ -8,6 +8,12 @@
 # 2) Papers
 # 3) LEDs 
 # 4) wires
+#
+# Pin Mapping
+# GPIO pin  : 5  6  12  13  23  24  25  39
+#             |  |  |   |   |   |   |    |
+# disply Seg: a  b  c   d   e   f   g  ground
+
 
 LEDS=(5 6 12 13 23 24 25)
 
